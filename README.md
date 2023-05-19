@@ -30,15 +30,15 @@ Em breve estarei procurando vagas Backend para me especializar.
 
 Tenho preferências em vagas com maior flexibilidade de horário, PJ ou CLT flex.
 Linguagens almejadas (por ordem de preferência):
-1. JavaScript / TypeScript
-2. Python
+1. Python
+2. C/C++
 3. Java / Kotlin (Kotlin é opcional)
-4. C#
-5. PHP
-6. C/C++
-7. Ruby
-8. GO
-9. Dart / Flutter
+4. JavaScript / TypeScript
+5. C#
+6. PHP
+7. GO
+8. Dart / Flutter
+9. Ruby
 10. Scala
 
 Se possível, gostaria de continuar trabalhando com SQL ou NoSQL.
