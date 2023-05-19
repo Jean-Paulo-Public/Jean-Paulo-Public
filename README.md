@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Jean Paulo!
 
-Programo profissionalmente há 4 anos. Abaixo estão minhas experiências (ordem de proficiência):
+Programo profissionalmente há 4 anos. Abaixo estão minhas experiências profissionais (ordem de proficiência):
 
 1. SQL: ██████████
 2. Delphi: █████████▬
@@ -12,6 +12,19 @@ Programo profissionalmente há 4 anos. Abaixo estão minhas experiências (ordem
 8. Regra de negócio, Sistema ERP, gerenciamento fiscal e de estoque: ███▬▬▬▬▬▬▬
 9. Auxílio e supervisão parcial dos estagiários: ██▬▬▬▬▬▬▬▬
 10. Desenvolvimento de aplicação em HTML, CSS e JavaScript: █▬▬▬▬▬▬▬▬▬
+
+OBS: Fiz faculdade e também sempre faço projetos pessoais por fora, então tenho outras habilidades por conta disso:
+1. Python: ██████████
+2. C#: █████████▬
+3. MongoDB: ████████▬▬
+4. Angular / TypeScript: ███████▬▬▬
+5. CSS, Layout Responsivo, UI e UX: ██████▬▬▬▬
+
+E claro, nesse tempo todo desenvolvi SoftSkils como proatividade, antecipação de problemas, dialogo...
+
+São 6 anos e meio totalmente envolvido com programação contando com a faculdade.
+
+Porém desde pequeno tive computador e criei modificações entre outras coisas que me ajudaram a entrar nesse mercado.
 
 Em breve estarei procurando vagas Backend para me especializar.
 
