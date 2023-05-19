@@ -1,6 +1,14 @@
 ## Olá! Eu sou o Jean Paulo!
-- Possuo 6 anos de experiencia com programação, rumo ao sétimo.
-- Possuo quase 2 anos de experiência como estagiário
-- e mais 2 anos como desenvolvedor júnior (analista técnico [ / de requisitos ] e programador desktop/sql)
-- Ao todo participei direta e indiretamente de mais de 1000 taks, sendo que mais da metade eu fui o responsável pela análise e desenvolvimento, sinto que já explorei tudo que eu tinha que explorar dessa aréa e estou em busca de novos desafios.
-- Agora estou em busca de mudar para uma stack mais focada em programação web front end e backend.
+Programo profissionalmente a 4 anos.
+Experiencias:
+[ 100% ] --> SQL.
+[ 90% ] --> Delphi.
+[ 80% ] --> Git.
+[ 70% ] --> Scrum, documentação.
+[ 60% ] --> Testes (unitários e automatizados).
+[ 50% ] --> Ferramentas de produtividade.
+[ 40% ] --> Criação e consumo de API's.
+[ 30% ] --> Regra de negócio, Sistema ERP, gerenciamento fiscal e de estoque.
+[ 20% ] --> Auxilio e supervisão parcial dos estagiários.
+[ 10% ] --> Desenvolvimento de applicação em HTML, CSS e JavaScript.
+Em breve estarei a procura de vagas Backend para me especializar.
