@@ -28,7 +28,7 @@ Porém desde pequeno tive computador e criei modificações entre outras coisas 
 
 Em breve estarei procurando vagas Backend ou Mobile (ou os dois) para me especializar.
 
-Tenho preferências em vagas com maior flexibilidade de horário, PJ ou CLT flex.
+Tenho preferências em vagas com maior flexibilidade de horário, para participar de outros projetos, PJ ou CLT flex.
 Linguagens almejadas (por ordem de preferência):
 1. ██████████‎ ‎ Python
 2. █████████‎ ‎‎ ‎‎ ‎ ‎ C/C++
