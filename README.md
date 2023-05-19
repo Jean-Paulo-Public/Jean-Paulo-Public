@@ -3,15 +3,15 @@
 Programo profissionalmente há 4 anos. Abaixo estão minhas experiências (ordem de proficiência):
 
 1. SQL: ██████████
-2. Delphi: █████████_
-3. Git: ████████__
-4. Scrum, documentação: ███████___
-5. Testes (unitários e automatizados): ██████____
-6. Ferramentas de produtividade: █████_____
-7. Criação e consumo de API's: ████______
-8. Regra de negócio, Sistema ERP, gerenciamento fiscal e de estoque: ███_______
-9. Auxílio e supervisão parcial dos estagiários: ██________
-10. Desenvolvimento de aplicação em HTML, CSS e JavaScript: █_________
+2. Delphi: █████████▬
+3. Git: ████████▬▬
+4. Scrum, documentação: ███████▬▬▬
+5. Testes (unitários e automatizados): ██████▬▬▬▬
+6. Ferramentas de produtividade: █████▬▬▬▬▬
+7. Criação e consumo de API's: ████▬▬▬▬▬▬
+8. Regra de negócio, Sistema ERP, gerenciamento fiscal e de estoque: ███▬▬▬▬▬▬▬
+9. Auxílio e supervisão parcial dos estagiários: ██▬▬▬▬▬▬▬▬
+10. Desenvolvimento de aplicação em HTML, CSS e JavaScript: █▬▬▬▬▬▬▬▬▬
 
 Em breve estarei procurando vagas Backend para me especializar.
 
