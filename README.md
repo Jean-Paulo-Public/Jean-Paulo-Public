@@ -2,14 +2,14 @@
 
 Programo profissionalmente há 4 anos. Abaixo estão minhas experiências (ordem de proficiência):
 
-1. SQL: █████████ (100%)
-2. Delphi: ████████_ (90%)
-3. Git: ███████__ (80%)
-4. Scrum, documentação: ██████___ (70%)
-5. Testes (unitários e automatizados): █████____ (60%)
-6. Ferramentas de produtividade: ████_____ (50%)
-7. Criação e consumo de API's: ███______ (40%)
-8. Regra de negócio, Sistema ERP, gerenciamento fiscal e de estoque: ██_______ (30%)
+1. SQL: ██████████ (100%)
+2. Delphi: █████████_ (90%)
+3. Git: ████████__ (80%)
+4. Scrum, documentação: ███████___ (70%)
+5. Testes (unitários e automatizados): ██████____ (60%)
+6. Ferramentas de produtividade: █████_____ (50%)
+7. Criação e consumo de API's: ████______ (40%)
+8. Regra de negócio, Sistema ERP, gerenciamento fiscal e de estoque: ███______ (30%)
 9. Auxílio e supervisão parcial dos estagiários: ██_______ (20%)
 10. Desenvolvimento de aplicação em HTML, CSS e JavaScript: █________ (10%)
 
