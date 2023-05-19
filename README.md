@@ -39,6 +39,6 @@ Linguagens almejadas (por ordem de preferência):
 7. ████______ GO
 8. ███_______ Dart / Flutter
 9. ██________ Ruby
-10.█_________ Scala
+10. █_________ Scala
 
 Se possível, gostaria de continuar trabalhando com SQL ou NoSQL.
