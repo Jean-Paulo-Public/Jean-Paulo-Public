@@ -9,9 +9,9 @@ Programo profissionalmente há 4 anos. Abaixo estão minhas experiências (ordem
 5. Testes (unitários e automatizados): ██████____
 6. Ferramentas de produtividade: █████_____
 7. Criação e consumo de API's: ████______
-8. Regra de negócio, Sistema ERP, gerenciamento fiscal e de estoque: ███______
-9. Auxílio e supervisão parcial dos estagiários: ██_______
-10. Desenvolvimento de aplicação em HTML, CSS e JavaScript: █________
+8. Regra de negócio, Sistema ERP, gerenciamento fiscal e de estoque: ███_______
+9. Auxílio e supervisão parcial dos estagiários: ██________
+10. Desenvolvimento de aplicação em HTML, CSS e JavaScript: █_________
 
 Em breve estarei procurando vagas Backend para me especializar.
 
