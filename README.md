@@ -26,7 +26,7 @@ São 6 anos e meio totalmente envolvido com programação contando com a faculda
 
 Porém desde pequeno tive computador e criei modificações entre outras coisas que me ajudaram a entrar nesse mercado.
 
-Em breve estarei procurando vagas Backend para me especializar.
+Em breve estarei procurando vagas Backend ou Mobile (ou os dois) para me especializar.
 
 Tenho preferências em vagas com maior flexibilidade de horário, PJ ou CLT flex.
 Linguagens almejadas (por ordem de preferência):
