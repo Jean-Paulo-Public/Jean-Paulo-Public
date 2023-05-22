@@ -1,34 +1,28 @@
-## Olá! Eu sou o Jean Paulo!
+## Hello! I'm Jean Paulo!
 
-Programo profissionalmente há 4 anos. Abaixo estão minhas experiências profissionais (ordem de proficiência):
+I have been programming professionally for 4 years. Below are my professional experiences (in order of proficiency):
 
 1. ██████████‎ ‎ SQL
 2. █████████‎ ‎‎ ‎‎ ‎ ‎ Delphi
 3. ████████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Git
 4. ███████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Scrum, documentação
-5. ██████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Testes (unitários e automatizados)
-6. █████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Ferramentas de produtividade
-7. ████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Criação e consumo de API's
-8. ███‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Regra de negócio, Sistema ERP, gerenciamento fiscal e de estoque
-9. ██‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Auxílio e supervisão parcial dos estagiários
-10. █‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Desenvolvimento de aplicação em HTML, CSS e JavaScript
+5. ██████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Unit and automated testing
+6. █████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Productivity tools
+7. ████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ API creation and consumption
+8. ███‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Business rules, ERP systems, fiscal and inventory management
+9. ██‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Development of applications in HTML, CSS, and JavaScript
+10. █‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Other skils
 
-OBS: Fiz faculdade e também sempre faço projetos pessoais por fora, então tenho outras habilidades por conta disso:
+And of course, throughout this time, I have developed soft skills such as proactivity, problem anticipation, effective communication...
+
+Note: I completed my college degree and also regularly engage in personal projects, which has enabled me to acquire additional skills:
 1. ██████████‎ ‎ Python
 2. █████████‎ ‎‎ ‎‎ ‎ ‎ C#
 3. ████████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ MongoDB
 4. ███████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Angular / TypeScript
 5. ██████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ CSS, Layout Responsivo, UI e UX
 
-E claro, nesse tempo todo desenvolvi SoftSkils como proatividade, antecipação de problemas, dialogo...
 
-São 6 anos e meio totalmente envolvido com programação contando com a faculdade.
-
-Porém desde pequeno tive computador e criei modificações entre outras coisas que me ajudaram a entrar nesse mercado.
-
-Em breve estarei procurando vagas Backend ou Mobile (ou os dois) para me especializar.
-
-Tenho preferências em vagas com maior flexibilidade de horário, para participar de outros projetos, PJ ou CLT flex.
 
 Linguagens almejadas (por ordem de preferência):
 1. ██████████‎ ‎ Python
@@ -42,4 +36,14 @@ Linguagens almejadas (por ordem de preferência):
 9. ██‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Ruby
 10. █‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Scala
 
-Se possível, gostaria de continuar trabalhando com SQL ou NoSQL.
+I have been fully involved in programming for 6 and a half years, including my college experience.
+
+However, I have had a computer since I was young and have been making modifications and exploring various things, which helped me enter this industry.
+
+In the near future, I will be looking to participate in open-source projects for Backend or Mobile (or both) to further specialize myself.
+
+I am currently on vacation, but I will be available at the end of the year, i will be looking for a job as a backend or full-stack developer.
+
+I prefer positions that offer flexible working hours, allowing me to participate in other projects. I am particularly interested in remote job opportunities within Brazil, where I can work as a legal entity.
+
+I would like to continue working with SQL or MongoDB as NoSQL databases.
