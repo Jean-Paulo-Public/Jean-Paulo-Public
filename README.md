@@ -5,7 +5,7 @@ I have been programming professionally for 4 years. Below are my professional ex
 1. ██████████‎ ‎ SQL
 2. █████████‎ ‎‎ ‎‎ ‎ ‎ Delphi
 3. ████████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Git
-4. ███████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Scrum, documentação
+4. ███████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Scrum, documentation
 5. ██████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Unit and automated testing
 6. █████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Productivity tools
 7. ████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ API creation and consumption
