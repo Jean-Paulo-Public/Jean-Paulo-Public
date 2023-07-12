@@ -24,7 +24,7 @@ Note: I completed my college degree and also regularly engage in personal projec
 
 
 
-Linguagens almejadas (por ordem de preferência):
+Desired languages (in order of preference):
 1. ██████████‎ ‎ Python
 2. █████████‎ ‎‎ ‎‎ ‎ ‎ C/C++
 3. ████████‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎ Java / Kotlin (Kotlin é opcional)
